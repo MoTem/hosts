@@ -39,7 +39,6 @@
 *.cjt1.net
 *.cnzz.com
 *.cqcounter.com
-*.crashlytics.com
 *.crypto-loot.com
 *.doubleclick.be
 *.doubleclick.net
@@ -57,7 +56,6 @@
 *.glam.com
 *.glpals.com
 *.googleadservices.com
-*.google-analytics.com
 *.googlezip.net
 *.groovinads.com
 *.hitbox.com
@@ -2936,7 +2934,6 @@ analytic.gatewayinterface.com
 analytic.spamfighter.com
 analyticcdn.globalmailer.com
 analyticdns.org
-analytics.*
 analyticsapi.bsbportal.com
 analytics-api-samples.googlecode.com
 analytics-digit-in.cdn.ampproject.org
@@ -3147,7 +3144,6 @@ api.eqmob.com
 api.ero-advertising.com
 api.ethereum.hashvault.pro
 api.fusepowered.com
-api.gameanalytics.com
 api.gameofwhales.com
 api.gimbal.com
 api.grandonmedia.com
@@ -3171,7 +3167,6 @@ api.miner.beeppool.org
 api.minero.cc
 api.minexmr.com
 api.miui.security.xiaomi.com
-api.mixpanel.com
 api.mobojoy.baidu.com
 api.mobula.ds.duapps.com
 api.mobula.sdk.duapps.com
@@ -3200,7 +3195,6 @@ api.safedk.com
 api.sagent.io
 api.sec.intl.miui.com
 api.sec.miui.com
-api.segment.io
 api.setting.intl.miui.com
 api.shoppingminds.net
 api.simpleanalytics.io
@@ -3216,7 +3210,6 @@ api.tumra.com
 api.tvpage.com
 api.uca.cloud.unity3d.com
 api.uprivaladserver.net
-api.usebutton.com
 api.userstyles.org
 api.viaxmr.com
 api.viglink.com
@@ -3347,7 +3340,6 @@ applog.camera360.com
 applog.uc.cn
 applovin.com
 applyfix.tech
-app-measurement.com
 appmetrica.yandex.com
 appmetrica.yandex.net
 appnext.hs.llnwd.net
@@ -5250,8 +5242,6 @@ cdn.rove.cl
 cdn.sagent.io
 cdn.sail-horizon.com
 cdn.scarabresearch.com
-cdn.segment.com
-cdn.segment.io
 cdn.shoppingminds.net
 cdn.siftscience.com
 cdn.simpleanalytics.io
@@ -6319,7 +6309,6 @@ craktraffic.com
 crana.ie
 crash-day.ru
 crasheye.cn
-crashlytics.com
 craveandlamb.com
 crawlability.com
 crawlclocks.com
@@ -6932,7 +6921,6 @@ debojuagug1sf.cloudfront.net
 debonairway.com
 debservers.pw
 debtbusterloans.com
-decide.mixpanel.com
 decisivedrawer.com
 decisiveducks.com
 decknetwork.net
@@ -8151,7 +8139,6 @@ events.foreseeresults.com
 events.kalooga.com
 events.kiosked.com
 events.lbesecapi.com
-events.redditmedia.com
 events.streamrail.net
 events.webflowmetrics.com
 events3.adcolony.com
@@ -9615,8 +9602,6 @@ googfle.com
 google.tucows.com
 googleadapis.l.google.com
 googleadservices.com
-googleanalytcs.com
-google-analytics.com
 google-docs.info
 google-docs.org
 googlepetkavanis4.pw
@@ -13364,7 +13349,6 @@ miva.com
 mix.kinostuff.com
 mixedreading.com
 mixmarket.biz
-mixpanel.com
 mix-test.uts.ngdata.com
 mixtraffic.com
 mizvan.com
@@ -16889,7 +16873,6 @@ req.tidaltv.com
 req1.appads.com
 req2.appads.com
 req3.appads.com
-rereddit.com
 res.adplus.co.id
 res.levexis.com
 resanium.com
@@ -19022,7 +19005,6 @@ ssl4anyone4.com
 ssl4anyone5.com
 ssl-6582datamanager.de
 sslgo.info
-ssl-google-analytics.l.google.com
 ssltracking.esearchvision.com
 ssl-vg03.met.vgwort.de
 sslwidget.criteo.com
@@ -26885,7 +26867,6 @@ wwwgamepro.com
 wwwgameshark.com
 wwwgmacmortgage.com
 www-google.nl
-www-google-analytics.l.google.com
 wwwgoogles.com
 wwwinbank.pl
 wwwmancow.com
